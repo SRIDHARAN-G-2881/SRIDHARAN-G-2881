@@ -6,11 +6,9 @@
 
 <img align="right" width="370" height="290" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.gif">
 
-- 🌱 Currently diving deep into **DSA** and developing projects with the **MERN Stack**  
-  <img height="20" src="https://img.icons8.com/color/48/code.png"/> Focused on writing clean, efficient, and scalable code  
+- 🌱 Currently diving deep into **DSA** and developing projects with the **MERN Stack** Focused on writing clean, efficient, and scalable code  
 
-- 💼 Tech stack includes **Java, C, C++, JavaScript, Node.js, React.js**  
-  <img height="20" src="https://img.icons8.com/color/48/database.png"/> Experienced with **MongoDB, MySQL, HTML/CSS, Tailwind CSS**
+- 💼 Tech stack includes **Java, C, C++, JavaScript, Node.js, React.js** Experienced with **MongoDB, MySQL, HTML/CSS, Tailwind CSS**
 
 
 ---
@@ -36,8 +34,7 @@
 <p>
 <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/>
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg
-"/>
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg"/>
 </p>
 
 ---
