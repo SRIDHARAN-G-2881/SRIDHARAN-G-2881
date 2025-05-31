@@ -17,7 +17,6 @@ Final Year Computer Science and Business Systems Student | Aspiring MERN Stack D
 <img height="40" src="https://img.icons8.com/color/48/javascript--v1.png"/>
 <img height="40" src="https://img.icons8.com/color/48/nodejs.png"/>
 <img height="40" src="https://img.icons8.com/color/48/react-native.png"/>
-<img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png"/>
 <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img height="40" src="https://img.icons8.com/color/48/mongodb.png"/>
 <img height="40" src="https://img.icons8.com/color/48/html-5--v1.png"/>
@@ -31,7 +30,7 @@ Final Year Computer Science and Business Systems Student | Aspiring MERN Stack D
 <p>
 <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/>
-<img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-servicenow-a-cloud-computing-platform-as-a-service-company-logo-color-tal-revivo.png"/>
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg"/>
 </p>
 
 ---
