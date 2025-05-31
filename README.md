@@ -30,18 +30,14 @@ Final Year Computer Science and Business Systems Student | Aspiring MERN Stack D
 <p>
 <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/>
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg"/>
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/ServiceNow_logo.svg
+"/>
 </p>
 
 ---
 
 ### 🧠 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SRIDHARAN_G?ext=contest&theme=dark)](https://leetcode.com/u/SRIDHARAN_G/)
-
----
-
-### 🏆 CodeChef
-[<img height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codechef-a-global-competitive-programming-platform-and-a-direct-initiative-by-directi-logo-shadow-tal-revivo.png"/>](https://www.codechef.com/users/sridharan_g)
 
 ---
 
@@ -54,6 +50,6 @@ Final Year Computer Science and Business Systems Student | Aspiring MERN Stack D
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
 </a>
 <a href="https://www.codechef.com/users/sridharan_g">
-  <img height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codechef-a-global-competitive-programming-platform-and-a-direct-initiative-by-directi-logo-shadow-tal-revivo.png"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/codechef.png" alt="codechef"/>
 </a>
 </p>
